@@ -1,9 +1,9 @@
-
-
 <div align="center">
-  <h2>📌DongJae</h2>  
+  <h2><img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20DongjaeOh%20%20&height=200&fontSize=100"></h2>  
   <a href="https://donggni0712.github.io/"><img src="https://img.shields.io/badge/blog-000000?style=for-the-badge&logo=Github&logoColor=white"></a>
-
+  
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=donggni0712)](https://solved.ac/donggni0712)
+  
 ![DongJae's github stats](https://github-readme-stats.vercel.app/api?username=donggni0712&show_icons=true&theme=monokai)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donggni0712&layout=compact&theme=monokai)
   
