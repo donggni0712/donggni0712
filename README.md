@@ -1,12 +1,17 @@
 <div align="center">
-  <h1><img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20DongjaeOh%20&height=200&fontColor=d4d4d4&fontSize=100"></h1>
-  <a href="https://donggni0712.github.io/"><img src="https://img.shields.io/badge/blog-000000?style=for-the-badge&logo=Github&logoColor=white"></a>
+  <h1><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=DongjaeOh&fontAlignY=40&fontSize=100&&animation=twinkling"></h1>
+  <a href="https://donggni0712.github.io/"><img src="https://img.shields.io/badge/page-000000?style=for-the-badge&logo=Github&logoColor=white"></a>
   <a href="https://velog.io/@donggni0712"><img src="https://img.shields.io/badge/velog-20c997?style=for-the-badge&logo=vimeo&logoColor=white"></a>
   <a href="https://www.instagram.com/oh_my_developer"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a><br>
 </div>
 <div align="center">
+  <h2>:hourglass_flowing_sand:History</h2>
+  - 2019~ : Ajou University, Department of Software<br>
+  - 2021~2022 : Republic of Korea Army
+</div>
+<div align="center">
   <h2>:trophy:Award</h2>
-  - 2021 [군장병 온라인 헤커톤] 육군참모총장상
+  - 2021 [<a href="https://osam.kr/home">OSAM2021 군장병 온라인 헤커톤</a>] <a href="https://github.com/osamhack2021/CLOUD_WEB_Blo-my_Byzantium">육군참모총장상</a>
 </div>
 <div align="center">
  <h2>🔧Tech</h2>
