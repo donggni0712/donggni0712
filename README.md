@@ -1,5 +1,11 @@
 <div align="center">
-  <h1><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=DongjaeOh&fontAlignY=40&fontSize=100&&animation=twinkling"></h1>
+  <h1><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=DongjaeOh&fontAlignY=40&fontSize=100&&animation=twinkling"><br>
+  <a href="https://gitmoji.dev">
+		<img src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square"
+			 alt="Gitmoji">
+	</a>
+    <a href="https://solved.ac/donggni0712"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=donggni0712"></a>
+  </h1>
   <a href="https://donggni0712.github.io/"><img src="https://img.shields.io/badge/page-000000?style=for-the-badge&logo=Github&logoColor=white"></a>
   <a href="https://velog.io/@donggni0712"><img src="https://img.shields.io/badge/velog-20c997?style=for-the-badge&logo=vimeo&logoColor=white"></a>
   <a href="https://www.instagram.com/oh_my_developer"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a><br>
