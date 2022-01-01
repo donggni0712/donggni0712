@@ -8,7 +8,6 @@
   </h1>
   <a href="https://donggni0712.github.io/"><img src="https://img.shields.io/badge/page-000000?style=for-the-badge&logo=Github&logoColor=white"></a>
   <a href="https://velog.io/@donggni0712"><img src="https://img.shields.io/badge/velog-20c997?style=for-the-badge&logo=vimeo&logoColor=white"></a>
-  <a href="https://www.instagram.com/oh_my_developer"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a><br>
 </div>
 <div align="center">
   <h2>:hourglass_flowing_sand:History</h2>
