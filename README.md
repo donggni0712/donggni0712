@@ -16,7 +16,7 @@
 </div>
 <div align="center">
   <h2>:trophy:Award</h2>
-  - 2021 [<a href="https://osam.kr/home">OSAM2021 군장병 온라인 헤커톤</a>] <a href="https://github.com/osamhack2021/CLOUD_WEB_Blo-my_Byzantium">육군참모총장상</a>
+  - 2021 [<a href="https://osam.kr/home">OSAM2021 군장병 온라인 헤커톤</a>] <a href="https://www.oss.kr/festival/award">육군참모총장상</a>(<a href="https://github.com/osamhack2021/CLOUD_WEB_Blo-my_Byzantium">Blomy_Byzantium</a>)
 </div>
 <div align="center">
  <h2>🔧Tech</h2>
