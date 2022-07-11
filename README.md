@@ -4,10 +4,8 @@
 		<img src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square"
 			 alt="Gitmoji">
 	</a>
-    <a href="https://solved.ac/profile/donggni0712"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=donggni0712"></a>
   </h1>
-  <a href="https://donggni0712.github.io/"><img src="https://img.shields.io/badge/page-000000?style=for-the-badge&logo=Github&logoColor=white"></a>
-  <a href="https://velog.io/@donggni0712"><img src="https://img.shields.io/badge/velog-20c997?style=for-the-badge&logo=vimeo&logoColor=white"></a>
+ <a href="https://velog.io/@donggni0712"><img src="https://img.shields.io/badge/velog-20c997?style=for-the-badge&logo=vimeo&logoColor=white"></a>
 </div>
 <div align="center">
   <h2>:hourglass_flowing_sand:History</h2>
